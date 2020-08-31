@@ -14,13 +14,15 @@
 
 - 📫 How to reach me:
   <br>
-    * <a href= "https://www.linkedin.com/in/cha-alexander" target="_blank">LinkedIn
-  </a>
-    * <a href= "mailto:charlennep@gmail.com" target="_blank">Email
-  </a>
-    * <a href= "https://www.instagram.com/chaporangaba/" target="_blank">Instagram
-  </a>
-    * <a href= "https://twitter.com/chaporangaba" target="_blank">Twitter
-  </a>
-    * <a href= "https://chaalexander.github.io/" target="_blank">Portfolio
-  </a>
+  <ul>
+  <li><a href= "https://www.linkedin.com/in/cha-alexander" target="_blank">LinkedIn
+  </a></li>
+  <li> <a href= "mailto:charlennep@gmail.com" target="_blank">Email
+  </a></li>
+  <li> <a href= "https://www.instagram.com/chaporangaba/" target="_blank">Instagram
+  </a></li>
+  <li> <a href= "https://twitter.com/chaporangaba" target="_blank">Twitter
+  </a></li>
+  <li> <a href= "https://chaalexander.github.io/" target="_blank">Portfolio
+  </a></li>
+  </ul>
