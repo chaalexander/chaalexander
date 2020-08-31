@@ -1,4 +1,4 @@
-<!-- <h1 align= "center">Hi There <img align="right" width="150" height="150" src="/assets/hi.gif"/></h1> -->
+ <h1 align= "center">Hi There <img align="right" width="150" height="150" src="/assets/hi.gif"/></h1> 
 <h1 align= "center">Hi There </h1>
  
 <h3 style="color:lightBlue">Thank you for visiting my profile. Here are somethings you might like to know about me.</h3>
