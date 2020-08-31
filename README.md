@@ -1,5 +1,5 @@
-
-<h1 align= "center">Hi There <img align="right" width="150" height="150" src="/assets/hi.gif"/></h1>
+<!-- <h1 align= "center">Hi There <img align="right" width="150" height="150" src="/assets/hi.gif"/></h1> -->
+<h1 align= "center">Hi There </h1>
  
 <h3 style="color:lightBlue">Thank you for visiting my profile. Here are somethings you might like to know about me.</h3>
 
@@ -15,15 +15,15 @@
 - 📫 How to reach me:
   <br>
   <br>
-  <a href= "https://www.linkedin.com/in/cha-alexander" target="_blank"><img  width="20" height="20" src="/assets/linkedin.png" alt="LinkedIn"/>
+  <a href= "https://www.linkedin.com/in/cha-alexander" target="_blank">LinkedIn
   </a>
-  <a href= "mailto:charlennep@gmail.com" target="_blank"><img  width="20" height="20" src="/assets/gmail.png" alt="email"/>
+  <a href= "mailto:charlennep@gmail.com" target="_blank">Email
   </a>
-  <a href= "https://www.instagram.com/chaporangaba/" target="_blank"><img  width="20" height="20" src="/assets/instagram-sketched.png" alt="Instagram"/>
+  <a href= "https://www.instagram.com/chaporangaba/" target="_blank">Instagram
   </a>
-  <a href= "https://twitter.com/chaporangaba" target="_blank"><img  width="20" height="20" src="/assets/twitter.png" alt="Twitter"/>
+  <a href= "https://twitter.com/chaporangaba" target="_blank">Twitter
   </a>
-  <a href= "assets/Cha Alexander Resume.pdf" target="_blank"><img  width="20" height="20" src="/assets/images/cv.png" alt="Resume"/>
+  <a href= "assets/Cha Alexander Resume.pdf" target="_blank"><img  width="20" height="20" src="/assets/images/cv.png"/>
   </a>
-  <a href= "https://chaalexander.github.io/" target="_blank"><img  width="20" height="20" src="/assets/portfolio.png" alt="Portfolio"/>
+  <a href= "https://chaalexander.github.io/" target="_blank">Portfolio
   </a>
