@@ -1,6 +1,6 @@
  <h1 align= "center">Hi There <img align="right" width="150" height="150" src="https://i.pinimg.com/originals/26/cd/60/26cd609483e5dd157bf4dbe279ad6fbe.gif"/></h1> 
  
-<h3 style="color:lightBlue">Thank you for visiting my profile. Here are somethings you might like to know about me.</h3>
+<h3 color:"lightBlue">Thank you for visiting my profile. Here are somethings you might like to know about me.</h3>
 
 - 🇧🇷 I’m a Brazilian,
   <br><br>
