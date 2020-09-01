@@ -8,7 +8,7 @@
   <br><br>
 - I’m currently learning more about CSS and TypeScript,
   <br><br>
-- ⚡ Fun fact: I was a fashion model the majority time of my life. I lived in over 10 countries and spend 9 years living in Asia modeling.
+- ⚡ Fun fact: I was a fashion model most of my life. I worked in over 10 countries and spent 9 years in Asia.
   <br><br>
 
 - 📫 How to reach me:
