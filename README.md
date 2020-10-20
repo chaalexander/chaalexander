@@ -6,7 +6,7 @@
   <br><br>
 - Full Stack Web Developer with a soft spot for Front End,
   <br><br>
-- I’m currently learning more about CSS and TypeScript,
+- I’m currently learning more about CSS and TypeScript, and Interning at a company call The Unicor Finders. 
   <br><br>
 - ⚡ Fun fact: I was a fashion model most of my life. I worked in over 10 countries and spent 9 years in Asia.
   <br><br>
