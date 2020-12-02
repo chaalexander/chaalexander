@@ -6,7 +6,7 @@
   <br><br>
 - Full Stack Web Developer with a soft spot for Front End,
   <br><br>
-- I’m currently learning more about CSS and TypeScript, and Interning at a company call The Unicor Finders. 
+- I’m currently working at Method of Sound and The Unicorn Finders. 
   <br><br>
 - ⚡ Fun fact: I was a fashion model most of my life. I worked in over 10 countries and spent 9 years in Asia.
   <br><br>
@@ -22,6 +22,8 @@
   </a></li>
   <li> <a href= "https://twitter.com/chaporangaba" target="_blank">Twitter
   </a></li>
-  <li> <a href= "https://chaalexander.github.io/" target="_blank">Portfolio
+  <li> <a href= "https://chaalexander.github.io/" target="_blank">My React Portfolio
+  </a></li>
+ <li> <a href= "https://www.cha-alexander.com/" target="_blank">My WordPress Portfolio
   </a></li>
   </ul>
