@@ -6,8 +6,6 @@
   <br><br>
 - Full Stack Web Developer with a soft spot for Front End,
   <br><br>
-- I’m currently working at Method of Sound and The Unicorn Finders. 
-  <br><br>
 - ⚡ Fun fact: I was a fashion model most of my life. I worked in over 10 countries and spent 9 years in Asia.
   <br><br>
 
